@@ -1,6 +1,6 @@
 <!--- snake -->
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/1ab625ab2312025ee200b7f968b1fba735857671/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/agileninjatech/my-assets/7da88eb5c3be5664abc53778b4abf024f3a476ca/assets/images/svg/grid-snake.svg?token=BD3WWRXVDZV72WQCFWEALL3FJ5A34"
   alt="snake" />
 </div>
 
